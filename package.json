@@ -1,0 +1,23 @@
+{
+  "name": "firststack",
+  "version": "1.0.0",
+  "description": "\"This is my very first full-stack app.\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anikdey1/FirstStack.git"
+  },
+  "author": "Anik Dey",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anikdey1/FirstStack/issues"
+  },
+  "homepage": "https://github.com/anikdey1/FirstStack#readme",
+  "keywords": [],
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
