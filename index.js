@@ -16,5 +16,5 @@ app.get("/home", (request, response) => {
 });
 
 app.listen(process.env.PORT || 3000, () =>
-  console.log("\nApp available at: http://localhost:3000")
+  console.log("\nApp available at: http://localhost:3000/home")
 );
