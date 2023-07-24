@@ -16,5 +16,6 @@ The following tools need to be installed to run this project:
 To run this application on Windows, follow these instructions:
 1. Clone this repository onto your machine.
 2. Open a terminal, and navigate to the project folder.
-3. Enter the following command: `node .`
-4. Use the localhost link display to access the page.
+3. Open the 'node_modules/debug/.coveralls.yml' file, and add the 'repo_token'.
+4. Enter the following command: `node .`
+5. Use the localhost link display to access the page.
