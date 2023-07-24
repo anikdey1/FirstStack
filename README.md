@@ -1,5 +1,5 @@
 # FirstStack
-This is my frist full-stack app that uses Express to serve a homepage.
+This is my first full-stack app that uses Express to serve a homepage.
 
 
 ## Motivation
@@ -16,6 +16,6 @@ The following tools need to be installed to run this project:
 To run this application on Windows, follow these instructions:
 1. Clone this repository onto your machine.
 2. Open a terminal, and navigate to the project folder.
-3. Open the 'node_modules/debug/.coveralls.yml' file, and add the 'repo_token'.
-4. Enter the following command: `node .`
+3. Open the `node_modules/debug/.coveralls.yml` file, and add the value for `repo_token`.
+4. Then enter the following command to run the app: `node .`
 5. Use the localhost link display to access the page.
