@@ -3,7 +3,7 @@ This is my first full-stack app that uses Express to serve a homepage.
 
 
 ## Motivation
-I used this to learn more about [Node.js (and Express)](https://www.youtube.com/watch?v=ENrzD9HAZK4).
+I used this to learn the [basics](https://www.youtube.com/watch?v=ENrzD9HAZK4) of Node.js (and Express).
 
 
 ## Pre-requisite Tools
